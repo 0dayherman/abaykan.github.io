@@ -1,2 +1,3 @@
 # abaykan.github.io
-Another Github Pages
+
+![abaykan.github.io](pic.gif)
